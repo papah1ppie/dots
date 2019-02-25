@@ -70,7 +70,7 @@ GEOMETRY_COLOR_GIT_BARE=blue               # when repo is bare (no working tree)
 GEOMETRY_COLOR_GIT_CONFLICTS_UNSOLVED=red   # when there are unsolved conflicts
 GEOMETRY_COLOR_GIT_CONFLICTS_SOLVED=green   # when all conflicts have been solved
 GEOMETRY_COLOR_GIT_BRANCH=242               # branch name color
-PROMPT_GEOMETRY_GIT_TIME=false
+PROMPT_GEOMETRY_GIT_TIME=true
 GEOMETRY_GIT_NO_COMMITS_MESSAGE="no commits" # message where repository has no commits
 GEOMETRY_GIT_SEPARATOR="::"                 # customize git character separator
 ##############################################

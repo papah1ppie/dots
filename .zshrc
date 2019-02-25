@@ -38,8 +38,6 @@ GOPATH=$HOME/go
 
 ##GEOMETRY CONFIG
 ##############################################
-
-GEOMETRY_TIMESTAMP_ENABLE=true
 PROMPT_GEOMETRY_COLORIZE_SYMBOL=false
 GEOMETRY_SYMBOL_PROMPT="❯" #▲ ❯ +                	# default prompt symbol
 GEOMETRY_SYMBOL_RPROMPT="❯❯" # ▶ +  ❯              # multiline prompts
@@ -107,6 +105,9 @@ antigen bundle sublime # subl3
 #antigen bundle web-search #google
 antigen apply
 #############################################
+
+# load custom plugin
+#source $HOME/.antigen/bundles/geometry-zsh/geometry/plugins/date/plugin.zsh
 
 DISABLE_AUTO_TITLE="true"
 

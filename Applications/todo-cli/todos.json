@@ -1,0 +1,33 @@
+{
+    "name": "todo",
+    "todos": [
+        {
+            "done": true,
+            "title": "List"
+        },
+        {
+            "done": true,
+            "title": "Remove"
+        },
+        {
+            "done": true,
+            "title": "Toggle"
+        },
+        {
+            "done": true,
+            "title": "Menu interface"
+        },
+        {
+            "done": true,
+            "title": "Make executable"
+        },
+        {
+            "done": false,
+            "title": "Add parser"
+        },
+        {
+            "done": false,
+            "title": "Flag management"
+        }
+    ]
+}

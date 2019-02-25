@@ -1,0 +1,1 @@
+{"url": "https://github.com/nlloyd/SublimeMaven", "dependencies": [], "sublime_text": ">=3000", "version": "2014.09.06.18.10.20", "description": "Sublime Text 2 Plugin providing integration with the Apache Maven build and project management tool", "platforms": ["*"]}

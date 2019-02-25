@@ -1,0 +1,1 @@
+{"platforms": ["*"], "dependencies": [], "version": "2014.03.22.12.12.15", "sublime_text": "*", "url": "https://github.com/biermeester/Pylinter", "description": "A pylint plugin for Sublime Text 2 and 3"}

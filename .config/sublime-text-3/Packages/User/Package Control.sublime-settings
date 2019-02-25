@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"JavaIME",
+		"JavaImports",
+		"Javatar",
+		"Markdown Extended",
+		"Maven",
+		"One Half Color Schemes",
+		"Package Control",
+		"Pylinter",
+		"Python 3",
+		"Python Completions",
+		"Python Debugger",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pylint",
+		"Terminal",
+		"TodoReview"
+	]
+}

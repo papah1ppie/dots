@@ -199,6 +199,8 @@ alias ls="ls --color=always"
 alias s="sudo"
 alias free='free -h'
 alias code="visual-studio-code-bin"
+## rofi
+alias rofi="rofi -theme .rofi/flat-red -modi drun,window,run,ssh,windowcd,combi,keys -width 50 -terminal konsole -show window"
 
 # functions
 source $HOME/.bin/functions

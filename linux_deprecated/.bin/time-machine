@@ -1,0 +1,12 @@
+#!/bin/sh
+date=`date "+%Y-%m-%d-%H%M%S"`
+SRC=$1
+DST=/mnt/WD501/Backups/$2
+
+rsync -ax \
+--delete \
+--progress \
+--numeric-ids \
+--link-dest=../Latest \
+$SRC $DST/Processing-$date \
+cd $DST && mv Processing-$date $date && rm -f Latest && ln -s $date Latest

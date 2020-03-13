@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/One Half Color Schemes/OneHalfDark.tmTheme",
+	"ignored_packages":
+	[
+		"JavaIME",
+		"Pylinter",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}

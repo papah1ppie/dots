@@ -1,0 +1,581 @@
+{
+	"folder_history":
+	[
+		"/home/ilya/Develpoer/gitlab.com/mongoose-os-device-simulator",
+		"/home/ilya/Develpoer/esp8266/mongoose-os-device-simulator",
+		"/home/ilya/Develpoer/Python",
+		"/home/ilya/Develpoer/java/Work/Snake",
+		"/home/ilya/Develpoer/java/Work",
+		"/home/ilya/Develpoer/java",
+		"/home/ilya/Develpoer/java/EasyWebServer",
+		"/home/ilya/Develpoer/lab.grusha.top/SMBR/SMBR.Web",
+		"/home/ilya/Develpoer/lab.grusha.top/wifi-setup-web/DepLibs/wifi-setup-web-ui",
+		"/home/ilya/Develpoer/lab.grusha.top/wifi-setup-web",
+		"/home/ilya/Develpoer/lab.grusha.top/SMBR/SMBR.Fan",
+		"/home/ilya/Develpoer/lab.grusha.top/SMBR/SMBR.Switch"
+	],
+	"last_version": 3176,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 448.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"print\tprint"
+					],
+					[
+						"O",
+						"Override"
+					],
+					[
+						"Co",
+						"Config"
+					],
+					[
+						"is",
+						"isSystemManual"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"lint",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"bash",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"java",
+						"Javatar: Create new..."
+					],
+					[
+						"javata",
+						"Javatar: Create new..."
+					],
+					[
+						"javatar",
+						"Preferences: Javatar Settings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"j",
+						"Javatar: Create new..."
+					],
+					[
+						"todo",
+						"TodoReview: Open Files"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Pa",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Packa\t",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 153.554336548,
+				"history":
+				[
+					"subprocess([\"ls\", \"-l\"])",
+					"subprocess.run([\"ls\", \"-l\"])",
+					"import subprocess",
+					"javac",
+					"print(\"hello\")",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ilya/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/home/ilya/.wttr_autodetect.sh",
+				"/home/ilya/.zshrc",
+				"/home/ilya/Develpoer/Sublime/Projects/Default.sublime-project",
+				"/home/ilya/.config/sublime-text-3/Packages/Javatar/README.md",
+				"/home/ilya/.config/sublime-text-3/Packages/Javatar/Javatar.sublime-settings",
+				"/home/ilya/Develpoer/java/Work/Snake/src/game/snake/Main.java",
+				"/home/ilya/Develpoer/java/Work/Snake/Gamepanel.java",
+				"/home/ilya/Develpoer/java/Work/Snake/Main.java",
+				"/home/ilya/.config/sublime-text-3/Packages/User/Javatar.sublime-settings",
+				"/home/ilya/Develpoer/java/Work/Snake/src/Gamepanel.java",
+				"/home/ilya/Develpoer/java/Work/Snake/src/Main.java",
+				"/home/ilya/.config/sublime-text-3/Packages/JavaImports/JavaImports.sublime-settings",
+				"/home/ilya/Develpoer/java/Work/Snake/Main/java.java",
+				"/home/ilya/Develpoer/java/Applications/Web/Java-WebSocket/pom.xml",
+				"/home/ilya/Develpoer/java/MyCalculator/MyCalculator.java",
+				"/home/ilya/Develpoer/java/BetterWebServer/JavaHTTPServer.java",
+				"/home/ilya/Develpoer/java/BetterWebServer/404.html",
+				"/home/ilya/Develpoer/java/BetterWebServer/index.html",
+				"/home/ilya/.config/sublime-text-3/Packages/User/JavaDev.sublime-build",
+				"/home/ilya/Develpoer/java/WebServer.java",
+				"/home/ilya/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/ilya/.config/sublime-text-3/Packages/Git/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 40.8923230309
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.9192422732
+			},
+			"input":
+			{
+				"height": 40.8773678963
+			},
+			"menu_visible": false,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 111.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.mvn_exec":
+			{
+				"height": 309.0
+			},
+			"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+			"replace":
+			{
+				"height": 49.850448654
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 501.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 381.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 166.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 748.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"print\tprint"
+					],
+					[
+						"O",
+						"Override"
+					],
+					[
+						"Co",
+						"Config"
+					],
+					[
+						"is",
+						"isSystemManual"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"lint",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"bash",
+						"Set Syntax: Bourne Again Shell (bash)"
+					],
+					[
+						"java",
+						"Javatar: Create new..."
+					],
+					[
+						"javata",
+						"Javatar: Create new..."
+					],
+					[
+						"javatar",
+						"Preferences: Javatar Settings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"j",
+						"Javatar: Create new..."
+					],
+					[
+						"todo",
+						"TodoReview: Open Files"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Pa",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Packa\t",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 153.554336548,
+				"history":
+				[
+					"subprocess([\"ls\", \"-l\"])",
+					"subprocess.run([\"ls\", \"-l\"])",
+					"import subprocess",
+					"javac",
+					"print(\"hello\")",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/ilya/Develpoer/gitlab.com/mongoose-os-device-simulator"
+			],
+			"file_history":
+			[
+				"/home/ilya/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/home/ilya/.wttr_autodetect.sh",
+				"/home/ilya/.zshrc",
+				"/home/ilya/Develpoer/Sublime/Projects/Default.sublime-project",
+				"/home/ilya/.config/sublime-text-3/Packages/Javatar/README.md",
+				"/home/ilya/.config/sublime-text-3/Packages/Javatar/Javatar.sublime-settings",
+				"/home/ilya/Develpoer/java/Work/Snake/src/game/snake/Main.java",
+				"/home/ilya/Develpoer/java/Work/Snake/Gamepanel.java",
+				"/home/ilya/Develpoer/java/Work/Snake/Main.java",
+				"/home/ilya/.config/sublime-text-3/Packages/User/Javatar.sublime-settings",
+				"/home/ilya/Develpoer/java/Work/Snake/src/Gamepanel.java",
+				"/home/ilya/Develpoer/java/Work/Snake/src/Main.java",
+				"/home/ilya/.config/sublime-text-3/Packages/JavaImports/JavaImports.sublime-settings",
+				"/home/ilya/Develpoer/java/Work/Snake/Main/java.java",
+				"/home/ilya/Develpoer/java/Applications/Web/Java-WebSocket/pom.xml",
+				"/home/ilya/Develpoer/java/MyCalculator/MyCalculator.java",
+				"/home/ilya/Develpoer/java/BetterWebServer/JavaHTTPServer.java",
+				"/home/ilya/Develpoer/java/BetterWebServer/404.html",
+				"/home/ilya/Develpoer/java/BetterWebServer/index.html",
+				"/home/ilya/.config/sublime-text-3/Packages/User/JavaDev.sublime-build",
+				"/home/ilya/Develpoer/java/WebServer.java",
+				"/home/ilya/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/ilya/.config/sublime-text-3/Packages/Git/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 40.8923230309
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/ilya/Develpoer/gitlab.com/mongoose-os-device-simulator"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.9192422732
+			},
+			"input":
+			{
+				"height": 40.8773678963
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 111.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.mvn_exec":
+			{
+				"height": 309.0
+			},
+			"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+			"position": "0,0,0,0,0,179,326,1089,856,1280,1024",
+			"project": "",
+			"replace":
+			{
+				"height": 49.850448654
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 501.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 381.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 166.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 25,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/ilya/Develpoer/Sublime/Projects/Default.sublime-workspace",
+			"/home/ilya/Develpoer/java/Work/Snake/Gamepanel.sublime-workspace"
+		]
+	}
+}

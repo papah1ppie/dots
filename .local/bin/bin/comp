@@ -1,0 +1,12 @@
+#!/bin/zsh
+if [ -d "$PWD/bin" ]; then
+    name=$1
+    g++ -Wall -Wextra -std=c++17 -O3 -pedantic-errors -fsanitize=address -fsanitize=undefined -fno-sanitize-recover=all $name -o ./bin/${name%.*}
+    name=${name%.*}
+    ./bin/$name
+else
+    name=$1
+    g++ -Wall -Wextra -std=c++17 -O3 -pedantic-errors -fsanitize=address -fsanitize=undefined -fno-sanitize-recover=all $name -o ./${name%.*}
+    name=${name%.*}
+    ./$name
+fi

@@ -1,9 +1,5 @@
 " ~/.vimrc
 " ver 06042022
-"
-"
-" curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-"    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 set nocompatible
 
 " Packaging
@@ -43,13 +39,16 @@ let g:ale_fixers = {
 \	'cpp': ['clang-format']
 \}
 
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 0 && !exists('s:std_in') | NERDTree | endif
+
 let mapleader = '\'
 nnoremap <Leader> <C-w>
 
 map <F2> :w! <cr>
 nnoremap <C-s> :w <CR>
 map <F8> :ALEFix <cr>
-map <F9> :q! <cr>
+map <F9> :qa! <cr>
 map <F10> :x! <cr>
 
 map <F3> :NERDTreeToggle <cr>
@@ -57,6 +56,7 @@ nnoremap <F5> :call Comp() <cr>
 nnoremap <C-c> :call Comp() <cr>
 map <F4> :tabnew <cr>
 map <F7> :set rnu! <cr>
+
 
 fu! Comp()
     let filename=expand('%:t')
@@ -104,6 +104,7 @@ set mouse=a
 set guifont=Monaco:h16
 set guicursor+=a:block-Cursor
 set guicursor+=a-n-c:blinkon0
+set clipboard=unnamed
 
 if has("gui_running")
   let g:airline_powerline_fonts = 0

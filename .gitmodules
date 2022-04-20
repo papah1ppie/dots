@@ -1,0 +1,6 @@
+[submodule ".config/zsh/geometry"]
+	path = .config/zsh/geometry
+	url = git@gitlab.com:krasn0glaz/geometry.git
+[submodule ".config/zsh/zsh-syntax-highlighting"]
+	path = .config/zsh/zsh-syntax-highlighting
+	url = git@gitlab.com:krasn0glaz/geometry.git

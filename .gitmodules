@@ -13,3 +13,5 @@
 [submodule ".config/zsh/zsh-autosuggestions"]
 	path = .config/zsh/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule "geometry"]
+	branch = custom

@@ -5,8 +5,8 @@ set_title() {
 GEOMETRY_ECHO=""
 GEOMETRY_PREFIX=""
 
-GEOMETRY_PROMPT=(geometry_echo geometry_status geometry_path)
-GEOMETRY_RPROMPT+=(geometry_exec_time geometry_jobs geometry_git_remote geometry_git_branch geometry_git_status geometry_docker_machine geometry_kube geometry_exitcode)
+GEOMETRY_PROMPT=(geometry_status geometry_path)
+GEOMETRY_RPROMPT=(geometry_exec_time geometry_jobs geometry_git_remote geometry_git_branch geometry_git_status geometry_docker_machine geometry_kube geometry_exitcode)
 
 GEOMETRY_TITLE=(set_title)
 GEOMETRY_CMDTITLE=(geometry_cmd g_at set_title)
